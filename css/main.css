@@ -19,6 +19,7 @@ body {
   overflow: hidden;
   perspective: 1000px;
 }
+audio { display:none;}
 
 .night {
   position: fixed;
