@@ -13,6 +13,7 @@ body{
     background-color: #010101;
     /* background-image: linear-gradient(to top, #00ffff23, #202020); */
 }
+audio{ display:none; }
 .greetings{
     font-size: 6rem;
     font-weight: 900;
